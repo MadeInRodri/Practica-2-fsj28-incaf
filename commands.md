@@ -30,3 +30,16 @@ git remote -v
 
 **Agregando repositorio remoto**
 git remote add origin <enlace repositorio github>
+
+### Comando sobre ramas
+
+git branch
+
+
+git branch <nueva-rama>
+
+**Creando una nueva rama y accediendo a ella**
+git checkout -b <nueva-rama>
+
+
+git checkout -b
